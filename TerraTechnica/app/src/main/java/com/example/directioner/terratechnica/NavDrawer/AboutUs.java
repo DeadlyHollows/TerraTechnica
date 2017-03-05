@@ -8,7 +8,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
-import android.widget.Toolbar;
 
 import com.example.directioner.terratechnica.GlobalData;
 import com.example.directioner.terratechnica.R;
@@ -32,10 +31,6 @@ public class AboutUs extends Fragment {
     @Override
     public void onActivityCreated(Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
-
-        getActivity().setActionBar((Toolbar) getActivity().findViewById(R.id.toolbar));
-
-        getActivity().getActionBar().setTitle("About Us");
 
         aboutUs = (TextView) getActivity().findViewById(R.id.about_us);
 
