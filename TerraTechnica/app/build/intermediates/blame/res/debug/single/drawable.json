@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\3b49b20f742c809058d88a4d63d0162912a58047\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\gallery.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\trial2.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\trial2.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\concerts.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\concerts.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\f5c9a28d07c0cfbbda8dba554470b6f478d483ea\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\batla.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\batla.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\computers.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\computers.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\schools.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\schools.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\notification.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\frame.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\f5c9a28d07c0cfbbda8dba554470b6f478d483ea\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dice4.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\dice4.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spacetheme6.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\spacetheme6.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button2.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\button2.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_bg.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\circle_bg.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\like_white.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\like_white.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\government.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\government.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\3b49b20f742c809058d88a4d63d0162912a58047\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\3b49b20f742c809058d88a4d63d0162912a58047\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\playgrounds.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\playgrounds.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\event.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\event.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\calendar.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_bg2.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\circle_bg2.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dice5.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\dice5.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\automotive.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\automotive.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\3b49b20f742c809058d88a4d63d0162912a58047\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg3.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\bg3.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dice2.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\dice2.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\f5c9a28d07c0cfbbda8dba554470b6f478d483ea\\output\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\share.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\3b49b20f742c809058d88a4d63d0162912a58047\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nitmarker.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\nitmarker.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_bg3.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\circle_bg3.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cafe.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\cafe.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\3b49b20f742c809058d88a4d63d0162912a58047\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nitd.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\nitd.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hotels.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\hotels.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\controller.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\controller.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.gif",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\splash.gif"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\foody.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\foody.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\3b49b20f742c809058d88a4d63d0162912a58047\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\f5c9a28d07c0cfbbda8dba554470b6f478d483ea\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\card_design.xml",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\card_design.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dice3.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\dice3.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\3b49b20f742c809058d88a4d63d0162912a58047\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dice6.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\dice6.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\instagram.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\instagram.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\magazines.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\magazines.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dice1.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\dice1.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\trial2logo2.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\trial2logo2.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sponsor.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\sponsor.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\map.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sports.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\sports.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_us.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\about_us.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\commercialplaces.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\commercialplaces.png"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\phone.png",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable\\phone.png"
+    }
+]

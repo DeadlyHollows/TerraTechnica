@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "P:\\ayush code\\tera technica\\TerraTechnica\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Directioner\\.android\\build-cache\\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]

@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml
+		INJECTED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml
+		INJECTED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml
+		INJECTED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Directioner\.android\build-cache\7daf016ebb3f9fb97eda1c13fbe88c35fd696b97\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Directioner\.android\build-cache\7daf016ebb3f9fb97eda1c13fbe88c35fd696b97\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:9:22-95
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:10:22-78
+application
+ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:12:5-50:19
+MERGED from [com.android.support:design:24.2.1] C:\Users\Directioner\.android\build-cache\f5c9a28d07c0cfbbda8dba554470b6f478d483ea\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Directioner\.android\build-cache\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Directioner\.android\build-cache\ebfe3065029d49cac7a49bea0c82d31b9ad0df2f\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Directioner\.android\build-cache\7a5ae6c591ded3db49a02e5567245496bebd1e27\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:cardview-v7:24.2.1] C:\Users\Directioner\.android\build-cache\ec5fc5f3b9e84cb1f07c709b83d32d2da8dba5b0\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:10.0.1] C:\Users\Directioner\.android\build-cache\3210743d97c912d1695a10c64e4c95f0ffb039d3\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Directioner\.android\build-cache\7daf016ebb3f9fb97eda1c13fbe88c35fd696b97\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Directioner\.android\build-cache\3b49b20f742c809058d88a4d63d0162912a58047\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Directioner\.android\build-cache\e42254322af05722b12e3c3abbaca9dab6691602\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Directioner\.android\build-cache\84c36815be0eb3cfe41437d83e338b71cfddeabf\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Directioner\.android\build-cache\4a77ec16b45c4a6a03834fa422eded2cc67b5628\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Directioner\.android\build-cache\3cbcd2dd47cd1234dd191bb1ed1e35ab1f33b38e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Directioner\.android\build-cache\a4231db6f22eec4e7a27b74476437f933fceec03\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Directioner\.android\build-cache\e254776c39ba374607b414d99ef6595185e387e9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Directioner\.android\build-cache\7aab5ebb7f662bcf5c799881c0b1f9e4d60f452d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Directioner\.android\build-cache\51d2f6a5363918dfbbaf0061847dcd73ccbda354\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:16:9-35
+	android:allowBackup
+		ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.example.directioner.terratechnica.MainActivity
+ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:18:9-25:20
+	android:label
+		ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:20:13-45
+	android:theme
+		ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:21:13-56
+	android:name
+		ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:19:13-41
+activity#com.example.directioner.terratechnica.CircleActivity
+ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:27:9-52
+	android:name
+		ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:27:19-49
+activity#com.example.directioner.terratechnica.CategoryItemDisplay
+ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:29:9-57
+	android:name
+		ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:29:19-54
+activity#com.example.directioner.terratechnica.EventCateg.Events
+ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:31:9-32:58
+	android:parentActivityName
+		ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:32:13-55
+	android:name
+		ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:31:19-52
+activity#com.example.directioner.terratechnica.Maps.Maps
+ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:34:9-47
+	android:name
+		ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:34:19-44
+activity#com.example.directioner.terratechnica.SplashScreen
+ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:36:9-42:20
+	android:name
+		ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:36:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:40:27-74
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:44:9-46:71
+	android:value
+		ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:46:13-68
+	android:name
+		ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:45:13-62
+activity#com.example.directioner.terratechnica.Games.DiceActivity
+ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:48:9-56
+	android:name
+		ADDED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml:48:19-53
+uses-sdk
+INJECTED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:24.2.1] C:\Users\Directioner\.android\build-cache\f5c9a28d07c0cfbbda8dba554470b6f478d483ea\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Directioner\.android\build-cache\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Directioner\.android\build-cache\ebfe3065029d49cac7a49bea0c82d31b9ad0df2f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Directioner\.android\build-cache\7a5ae6c591ded3db49a02e5567245496bebd1e27\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:cardview-v7:24.2.1] C:\Users\Directioner\.android\build-cache\ec5fc5f3b9e84cb1f07c709b83d32d2da8dba5b0\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\Directioner\.android\build-cache\a13ab8590f122e2c90713406a2c2c093fd23e039\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-places:10.0.1] C:\Users\Directioner\.android\build-cache\3210743d97c912d1695a10c64e4c95f0ffb039d3\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Directioner\.android\build-cache\7daf016ebb3f9fb97eda1c13fbe88c35fd696b97\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Directioner\.android\build-cache\3b49b20f742c809058d88a4d63d0162912a58047\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Directioner\.android\build-cache\e42254322af05722b12e3c3abbaca9dab6691602\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Directioner\.android\build-cache\84c36815be0eb3cfe41437d83e338b71cfddeabf\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Directioner\.android\build-cache\4a77ec16b45c4a6a03834fa422eded2cc67b5628\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Directioner\.android\build-cache\3cbcd2dd47cd1234dd191bb1ed1e35ab1f33b38e\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Directioner\.android\build-cache\a4231db6f22eec4e7a27b74476437f933fceec03\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Directioner\.android\build-cache\e254776c39ba374607b414d99ef6595185e387e9\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Directioner\.android\build-cache\7aab5ebb7f662bcf5c799881c0b1f9e4d60f452d\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Directioner\.android\build-cache\51d2f6a5363918dfbbaf0061847dcd73ccbda354\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.daimajia.easing:library:1.0.1] C:\Users\Directioner\.android\build-cache\e4ccb2be9796b468ef0aada84e72d26d1e356aa8\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:1.1.3] C:\Users\Directioner\.android\build-cache\8d6f10b3fab2b31a6e6301f5ddb9019b37214986\output\AndroidManifest.xml:8:5-10:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Directioner\.android\build-cache\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml
+		INJECTED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml
+		INJECTED from P:\ayush code\tera technica\TerraTechnica\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Directioner\.android\build-cache\7daf016ebb3f9fb97eda1c13fbe88c35fd696b97\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Directioner\.android\build-cache\7daf016ebb3f9fb97eda1c13fbe88c35fd696b97\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Directioner\.android\build-cache\7daf016ebb3f9fb97eda1c13fbe88c35fd696b97\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Directioner\.android\build-cache\3b49b20f742c809058d88a4d63d0162912a58047\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Directioner\.android\build-cache\3b49b20f742c809058d88a4d63d0162912a58047\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Directioner\.android\build-cache\3b49b20f742c809058d88a4d63d0162912a58047\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Directioner\.android\build-cache\3b49b20f742c809058d88a4d63d0162912a58047\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Directioner\.android\build-cache\84c36815be0eb3cfe41437d83e338b71cfddeabf\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Directioner\.android\build-cache\84c36815be0eb3cfe41437d83e338b71cfddeabf\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Directioner\.android\build-cache\84c36815be0eb3cfe41437d83e338b71cfddeabf\output\AndroidManifest.xml:20:20-65

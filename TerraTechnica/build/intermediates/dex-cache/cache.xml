@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Directioner\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="P:\ayush code\tera technica\TerraTechnica\app\build\intermediates\pre-dexed\debug\library-2.4.0_790bd262a2581e23db6b3c705df77aa1af0c0330.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Directioner\.android\build-cache\c64ff2d7f31cdce4ba4d46e36897e373d3e7b016\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="P:\ayush code\tera technica\TerraTechnica\app\build\intermediates\pre-dexed\debug\classes_935376987e42070fce8054f520b179e065389fe1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Directioner\.android\build-cache\7aab5ebb7f662bcf5c799881c0b1f9e4d60f452d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="P:\ayush code\tera technica\TerraTechnica\app\build\intermediates\pre-dexed\debug\classes_f3d00e284d029e9e20ef99a76f6d8747b1b95a07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Directioner\.android\build-cache\a13ab8590f122e2c90713406a2c2c093fd23e039\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="P:\ayush code\tera technica\TerraTechnica\app\build\intermediates\pre-dexed\debug\classes_493d484bfa8eedc7d5e6c920ab4c3960c8b1098c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Directioner\.android\build-cache\f5c9a28d07c0cfbbda8dba554470b6f478d483ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="P:\ayush code\tera technica\TerraTechnica\app\build\intermediates\pre-dexed\debug\classes_88c0b95dde3ab1499b4b692cef74477fd3fe235e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Directioner\.android\build-cache\3cbcd2dd47cd1234dd191bb1ed1e35ab1f33b38e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="P:\ayush code\tera technica\TerraTechnica\app\build\intermediates\pre-dexed\debug\classes_2eadcd2ea63ce50cc74ca2885fb61fd7aa0c6065.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Directioner\.android\build-cache\7daf016ebb3f9fb97eda1c13fbe88c35fd696b97\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="P:\ayush code\tera technica\TerraTechnica\app\build\intermediates\pre-dexed\debug\classes_6a2aaf3a96985462903d78628e7cf7a94f6dd061.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Directioner\.android\build-cache\7aab5ebb7f662bcf5c799881c0b1f9e4d60f452d\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="P:\ayush code\tera technica\TerraTechnica\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f476aaacbbad44e4362b0663288a68c111826f68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Directioner\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="P:\ayush code\tera technica\TerraTechnica\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_84fb9cc283ac409a8501e931bec2e6d6790a6c72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Directioner\.android\build-cache\e4ccb2be9796b468ef0aada84e72d26d1e356aa8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="P:\ayush code\tera technica\TerraTechnica\app\build\intermediates\pre-dexed\debug\classes_bdd30dfcabf0f14b5e5d369e67e10cbf0494d283.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Directioner\.android\build-cache\51d2f6a5363918dfbbaf0061847dcd73ccbda354\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="P:\ayush code\tera technica\TerraTechnica\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2cc8b1e11e7de4ff6a308c1f0c648771da08d93b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Directioner\.android\build-cache\a4231db6f22eec4e7a27b74476437f933fceec03\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="P:\ayush code\tera technica\TerraTechnica\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2834603882f18d5e2514aa3db8aca1310f2e9c6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Directioner\.android\build-cache\3cbcd2dd47cd1234dd191bb1ed1e35ab1f33b38e\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="P:\ayush code\tera technica\TerraTechnica\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8a9aa8aa60a035dd74023359d1c83f6513b8307c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Directioner\.android\build-cache\e42254322af05722b12e3c3abbaca9dab6691602\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="P:\ayush code\tera technica\TerraTechnica\app\build\intermediates\pre-dexed\debug\classes_b3589f0c250b09663b3fba9085fbfaef0d805d3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Directioner\.android\build-cache\3210743d97c912d1695a10c64e4c95f0ffb039d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="P:\ayush code\tera technica\TerraTechnica\app\build\intermediates\pre-dexed\debug\classes_a8f2af8343a15f27c1bbc012ed30e3008f5da2f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Directioner\.android\build-cache\4a77ec16b45c4a6a03834fa422eded2cc67b5628\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="P:\ayush code\tera technica\TerraTechnica\app\build\intermediates\pre-dexed\debug\classes_59ffa45f9468a816a6190b4de3a2fe537f3bd8c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Directioner\.android\build-cache\a4231db6f22eec4e7a27b74476437f933fceec03\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="P:\ayush code\tera technica\TerraTechnica\app\build\intermediates\pre-dexed\debug\classes_9321f6cc9ed07015d8055d8f2bb2d9bbf742a127.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Directioner\.android\build-cache\7a5ae6c591ded3db49a02e5567245496bebd1e27\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="P:\ayush code\tera technica\TerraTechnica\app\build\intermediates\pre-dexed\debug\classes_fd22b63275cf9bb6a1559d82cf7f93a4b7e57664.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Directioner\.android\build-cache\e254776c39ba374607b414d99ef6595185e387e9\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="P:\ayush code\tera technica\TerraTechnica\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_34f18c4d5fafa799d78e2258c9d1e427ce118231.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Directioner\.android\build-cache\8d6f10b3fab2b31a6e6301f5ddb9019b37214986\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="P:\ayush code\tera technica\TerraTechnica\app\build\intermediates\pre-dexed\debug\classes_eb313adadc01cdb09ad0ea398e136efa31162e69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Directioner\.android\build-cache\84c36815be0eb3cfe41437d83e338b71cfddeabf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="P:\ayush code\tera technica\TerraTechnica\app\build\intermediates\pre-dexed\debug\classes_b7f580fbe31cfcb132ddbad51a4c7d43562546df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Directioner\.android\build-cache\51d2f6a5363918dfbbaf0061847dcd73ccbda354\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="P:\ayush code\tera technica\TerraTechnica\app\build\intermediates\pre-dexed\debug\classes_94213d487d75079a7bc108a15f1f216d253c4151.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Directioner\.android\build-cache\ebfe3065029d49cac7a49bea0c82d31b9ad0df2f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="P:\ayush code\tera technica\TerraTechnica\app\build\intermediates\pre-dexed\debug\classes_a9a2a5f07a5e55034cf08900967e4df7d9adaceb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Directioner\.android\build-cache\ec5fc5f3b9e84cb1f07c709b83d32d2da8dba5b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="P:\ayush code\tera technica\TerraTechnica\app\build\intermediates\pre-dexed\debug\classes_c9c36e047cf3476bc36907d2c3575c5aeb0b9ccb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Directioner\.android\build-cache\e254776c39ba374607b414d99ef6595185e387e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="P:\ayush code\tera technica\TerraTechnica\app\build\intermediates\pre-dexed\debug\classes_1987f14e675a4d67a467c7b6ad5672a91ac79cb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Directioner\.android\build-cache\3b49b20f742c809058d88a4d63d0162912a58047\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="P:\ayush code\tera technica\TerraTechnica\app\build\intermediates\pre-dexed\debug\classes_6962f73ceebf603fa2626b6b7ab9dc4dd79e6dd2.jar" />
+    </item>
+
+</items>
